@@ -1,0 +1,8 @@
+1.1596875	6.1659375	normal_speech_female
+7.1303125	10.05425	normal_speech_female
+12.1586875	19.4851875	normal_speech_female
+21.48525	27.0045	normal_speech_female
+29.12175	36.19475	normal_speech_female
+38.19475	46.4845	normal_speech_female
+48.5885	51.4828125	normal_speech_female
+53.714	55.8425625	normal_speech_female
