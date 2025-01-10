@@ -1,2 +1,3 @@
-# simple_modeling
-Simple modeling repository.
+# Modeling Library
+
+Library for audio AI model training.
